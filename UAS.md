@@ -30,7 +30,7 @@ Answer the following questions for the TCP segments:
     Source Port                     : 60662
 
    
-   [Answer1](Picture1.png)
+   [Picture1](Picture1.png)
    
    
    
