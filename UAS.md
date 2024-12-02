@@ -23,7 +23,16 @@ Answer the following questions for the TCP segments:
 7.	What is the length of each of the first six TCP segments?(Attach the screenshot of your Wireshark's display).
 
    # ANSWERS 
-   *NO.1*
+
+   *Answer.1*
+    IP address and TCP port numbers of the client computer (source).
+    Source IP Address          : 192.168.110.37
+    Source Port                     : 60662
+
+   
+   [Answer1](Picture1.png)
+   
+   
    
 
 
